@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544975829 source:e:\codes\graphics2\grap1.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
